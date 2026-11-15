@@ -35,7 +35,7 @@ engine, and a findings report with a prioritized remediation roadmap.
 
 ## Deliverables
 
-- [`Risk-Assessment-Report.docx`](Risk-Assessment-Report.docx): full risk assessment report (Word)
+- [`Risk-Assessment-Report.docx`](scripts/Risk-Assessment-Report.docx): full risk assessment report (Word)
 - [`Risk-Assessment-NIST-CSF.xlsx`](Risk-Assessment-NIST-CSF.xlsx): risk register workbook (Excel)
 
 ## Repository structure
